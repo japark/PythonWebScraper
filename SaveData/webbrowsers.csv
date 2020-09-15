@@ -1,0 +1,136 @@
+Browser,Creator,Cost (USD),Software license,Current layout engine,Latest release version
+Amaya (discontinued),"W3C, INRIA",Free,W3C,custom,"11.4.4 (January 18, 2012; 8 years ago (2012-01-18)) [±]"
+AOL Explorer (discontinued),"America Online, Inc",Free,Proprietary,Trident,"1.5 (May 10, 2006; 14 years ago (2006-05-10)) [±]"
+Arora (discontinued),Benjamin C. Meyer,Free,GPL,WebKit,0.11.0[1] (27 September 2010; 9 years ago (2010-09-27)) [±]
+Avant,Avant Force,Free,Proprietary,"Blink, Gecko, Trident","2020 build 3 (March 17, 2020; 5 months ago (2020-03-17)[2]) [±]"
+Basilisk,Moonchild Productions,Free,MPL 2.0,Goanna,2020.06.10 (10 June 2020; 2 months ago (2020-06-10)[3]) [±]
+Blisk,Blisk team,"Free (Limited),Paid (Unlimited Pro)",Proprietary,"Blink, V8","12.0.92.83 (June 29, 2019; 13 months ago (2019-06-29)[4]) [±]"
+Brave,Brave Software Inc.,Free,MPL 2.0,Blink,"Android1.12.113 / August 13, 2020; 15 days ago (2020-08-13)[5]iOS1.19 / July 28, 2020; 31 days ago (2020-07-28)[6]macOS, Windows, Linux1.12.114 / August 19, 2020; 9 days ago (2020-08-19)[7]",Android,"1.12.113 / August 13, 2020; 15 days ago (2020-08-13)[5]",iOS,"1.19 / July 28, 2020; 31 days ago (2020-07-28)[6]","macOS, Windows, Linux","1.12.114 / August 19, 2020; 9 days ago (2020-08-19)[7]"
+Android,"1.12.113 / August 13, 2020; 15 days ago (2020-08-13)[5]"
+iOS,"1.19 / July 28, 2020; 31 days ago (2020-07-28)[6]"
+"macOS, Windows, Linux","1.12.114 / August 19, 2020; 9 days ago (2020-08-19)[7]"
+Camino (discontinued),The Camino Project,Free,MPL 1.1/GPL 2.0/LGPL 2.1 tri-license,Gecko,2.1.2 (14 March 2012; 8 years ago (2012-03-14)[8])
+Cliqz,Cliqz GmbH,Free,MPL 2.0,Gecko,"Android1.9.7 / April 4, 2020; 4 months ago (2020-04-04)[9]iOS3.6.3 / June 30, 2020; 59 days ago (2020-06-30)[10]Desktop1.38.0 / July 22, 2020; 37 days ago (2020-07-22)[11]",Android,"1.9.7 / April 4, 2020; 4 months ago (2020-04-04)[9]",iOS,"3.6.3 / June 30, 2020; 59 days ago (2020-06-30)[10]",Desktop,"1.38.0 / July 22, 2020; 37 days ago (2020-07-22)[11]"
+Android,"1.9.7 / April 4, 2020; 4 months ago (2020-04-04)[9]"
+iOS,"3.6.3 / June 30, 2020; 59 days ago (2020-06-30)[10]"
+Desktop,"1.38.0 / July 22, 2020; 37 days ago (2020-07-22)[11]"
+Chrome,Google,Free,BSD (Chromium executable)(some closed-source features) [note 1],Blink,"Windows, macOS, Linux85.0.4183.83 / August 25, 2020; 3 days ago (2020-08-25)[12]Android85.0.4183.81 / August 25, 2020; 3 days ago (2020-08-25)[13]iOS85.0.4183.72 / August 25, 2020; 3 days ago (2020-08-25)[14]","Windows, macOS, Linux","85.0.4183.83 / August 25, 2020; 3 days ago (2020-08-25)[12]",Android,"85.0.4183.81 / August 25, 2020; 3 days ago (2020-08-25)[13]",iOS,"85.0.4183.72 / August 25, 2020; 3 days ago (2020-08-25)[14]"
+"Windows, macOS, Linux","85.0.4183.83 / August 25, 2020; 3 days ago (2020-08-25)[12]"
+Android,"85.0.4183.81 / August 25, 2020; 3 days ago (2020-08-25)[13]"
+iOS,"85.0.4183.72 / August 25, 2020; 3 days ago (2020-08-25)[14]"
+Chromium,The Chromium Project,Free,BSD,Blink,(built nightly)
+Comodo Dragon,Comodo Dragon,Free,BSD,Blink,"83.0.4103.116 (July 21, 2020; 38 days ago (2020-07-21)[15]) [±]"
+Comodo IceDragon,Comodo IceDragon,Free,MPL 2.0,Gecko,"65.0.2.15 (June 19, 2019; 14 months ago (2019-06-19)[16]) [±]"
+Dillo (discontinued),The Dillo team,Free,GPL,custom,3.0.5[17] (30 June 2015; 5 years ago (2015-06-30)) [±]
+Dooble,Dooble Team,Free,BSD,Blink,"2020.07.07 (July 7, 2020; 52 days ago (2020-07-07)[18]) [±]"
+ELinks (discontinued),"Baudis, Fonseca, et al.",Free,GPL,"custom, fork of Links",0.11.7[19] (22 August 2009; 11 years ago (2009-08-22)) [±]
+Falkon,David Rosca,Free,GPL 3.0,Blink,"3.1.0.75 (March 19, 2019; 17 months ago (2019-03-19)[20]) [±]"
+Flock (discontinued),Flock Inc,Free,Proprietary (as of 3.0),WebKit,"3.5.3.4641 (February 1, 2011; 9 years ago (2011-02-01)) [±]"
+Galeon (discontinued),Marco Pesenti Gritti,Free,GPL,Gecko,2.0.7 (27 September 2008; 11 years ago (2008-09-27)[21])
+GNU IceCat,GNU,Free,MPL 2.0,Gecko,60.7.0 (2 June 2019; 14 months ago (2019-06-02)[22]) [±]
+iCab,Alexander Clauss,"Free,$20 (Pro)","Proprietary (browser), LGPL (WebKit)",WebKit,"5.9.2 (March 4, 2020; 5 months ago (2020-03-04)[23]) [±]"
+Internet Explorer,"Microsoft,Spyglass",Included with Windows,Proprietary,Trident,"11.0.205 (August 11, 2020; 17 days ago (2020-08-11)[24]) [±]"
+Internet Explorer for Mac (discontinued),Microsoft,Free,Proprietary,Tasman,5.2.3 (discontinued in 2003)
+K-Meleon,"Dorian, KKO, et al.",Free,GPL,Gecko,"75.1 (September 19, 2015; 4 years ago (2015-09-19)[25]) [±]"
+Konqueror,KDE,Free,GPL,"KHTML, WebKit",20.04.2 (11 June 2020; 2 months ago (2020-06-11)[26]) [±]
+Links,"Patocka, et al.",Free,GPL,custom,2.20.2 (25 September 2019; 11 months ago (2019-09-25)[27][28]) [±]
+Lunascape (discontinued),Lunascape Corporation,Free,Proprietary,"Blink, Gecko, Trident","6.15.2 (February 25, 2018; 2 years ago (2018-02-25)[29]) [±]"
+Lynx,"Montulli, Grobe, Rezac, et al.",Free,GPL,"custom, fork of libwww",2.8.9rel.1[30][31] (8 July 2018; 2 years ago (2018-07-08)) [±]
+Maxthon,Maxthon International Limited,Free,Proprietary,"Blink, Trident","Windows5.3.8.2000 / October 25, 2019; 10 months ago (2019-10-25)[32]Android5.2.3.3241 / January 25, 2019; 19 months ago (2019-01-25)[33]Mac5.1.60 / August 27, 2018; 2 years ago (2018-08-27)[34]iOS5.4.5 / July 21, 2020; 38 days ago (2020-07-21)[35]Windows Phone2.2.0 / March 30, 2017; 3 years ago (2017-03-30)[36]Linux1.0.5.3 / September 9, 2014; 5 years ago (2014-09-09)[37]",Windows,"5.3.8.2000 / October 25, 2019; 10 months ago (2019-10-25)[32]",Android,"5.2.3.3241 / January 25, 2019; 19 months ago (2019-01-25)[33]",Mac,"5.1.60 / August 27, 2018; 2 years ago (2018-08-27)[34]",iOS,"5.4.5 / July 21, 2020; 38 days ago (2020-07-21)[35]",Windows Phone,"2.2.0 / March 30, 2017; 3 years ago (2017-03-30)[36]",Linux,"1.0.5.3 / September 9, 2014; 5 years ago (2014-09-09)[37]"
+Windows,"5.3.8.2000 / October 25, 2019; 10 months ago (2019-10-25)[32]"
+Android,"5.2.3.3241 / January 25, 2019; 19 months ago (2019-01-25)[33]"
+Mac,"5.1.60 / August 27, 2018; 2 years ago (2018-08-27)[34]"
+iOS,"5.4.5 / July 21, 2020; 38 days ago (2020-07-21)[35]"
+Windows Phone,"2.2.0 / March 30, 2017; 3 years ago (2017-03-30)[36]"
+Linux,"1.0.5.3 / September 9, 2014; 5 years ago (2014-09-09)[37]"
+Microsoft Edge,Microsoft,Free,"EdgeHTML-based versions (until 2020): proprietary
+Chromium-based versions (2020 onwards): BSD (Chromium executable), some proprietary features [note 2]","EdgeHTML (until 2020)
+Blink (since 2020)","Android45.06.2.5042 / July 21, 2020; 38 days ago (2020-07-21)[38]iOS45.7.3 / August 11, 2020; 17 days ago (2020-08-11)[39]macOS84.0.522.44 / July 23, 2020; 36 days ago (2020-07-23)[40]Windows85.0.564.41 / August 27, 2020; 1 day ago (2020-08-27)[41]Xbox One44.18363.8131 / January 7, 2020; 7 months ago (2020-01-07)[42]",Android,"45.06.2.5042 / July 21, 2020; 38 days ago (2020-07-21)[38]",iOS,"45.7.3 / August 11, 2020; 17 days ago (2020-08-11)[39]",macOS,"84.0.522.44 / July 23, 2020; 36 days ago (2020-07-23)[40]",Windows,"85.0.564.41 / August 27, 2020; 1 day ago (2020-08-27)[41]",Xbox One,"44.18363.8131 / January 7, 2020; 7 months ago (2020-01-07)[42]"
+Android,"45.06.2.5042 / July 21, 2020; 38 days ago (2020-07-21)[38]"
+iOS,"45.7.3 / August 11, 2020; 17 days ago (2020-08-11)[39]"
+macOS,"84.0.522.44 / July 23, 2020; 36 days ago (2020-07-23)[40]"
+Windows,"85.0.564.41 / August 27, 2020; 1 day ago (2020-08-27)[41]"
+Xbox One,"44.18363.8131 / January 7, 2020; 7 months ago (2020-01-07)[42]"
+Midori,"Christian Dywan, et al.",Free,LGPL,WebKit,"9.0 (July 29, 2019; 12 months ago (2019-07-29)[43]) [±]"
+Mosaic (discontinued),"Marc Andreessen and Eric Bina, NCSA",Free for non-commercial use,Proprietary,custom,3.0 (discontinued in 1997)
+Mozilla Application Suite (discontinued),Mozilla Foundation,Free,MPL 1.1/GPL 2.0/LGPL 2.1 tri-license,Gecko,1.7.13 (21 April 2006; 14 years ago (2006-04-21)[44])
+Mozilla Firefox,Mozilla Foundation,Free,MPL 2.0,Gecko (before v57).Gecko w/Servo (v57 & after),"Standard80.0 / August 25, 2020; 3 days ago (2020-08-25)[45]Extended Support Release 178.2.0 / August 25, 2020; 3 days ago (2020-08-25)[46]Extended Support Release 268.12.0 / August 25, 2020; 3 days ago (2020-08-25)[47]",Standard,"80.0 / August 25, 2020; 3 days ago (2020-08-25)[45]",Extended Support Release 1,"78.2.0 / August 25, 2020; 3 days ago (2020-08-25)[46]",Extended Support Release 2,"68.12.0 / August 25, 2020; 3 days ago (2020-08-25)[47]"
+Standard,"80.0 / August 25, 2020; 3 days ago (2020-08-25)[45]"
+Extended Support Release 1,"78.2.0 / August 25, 2020; 3 days ago (2020-08-25)[46]"
+Extended Support Release 2,"68.12.0 / August 25, 2020; 3 days ago (2020-08-25)[47]"
+Netscape (v.6–7)[22] (discontinued),"Netscape Communications Corporation, AOL",Free,"Proprietary (browser),MPL 1.1/GPL 2.0/LGPL 2.1 (Gecko)",Gecko,7.2 (discontinued in 2004)
+Netscape Browser (v.8)[note 3] (discontinued),Mercurial Communications for AOL,Free,"Proprietary (browser & Trident),MPL 1.1/GPL 2.0/LGPL 2.1 (Gecko)","Gecko, Trident","8.1.3 (April 2, 2007; 13 years ago (2007-04-02)) [±]"
+Netscape Communicator (v.4)[note 3] (discontinued),Netscape Communications,Free,Proprietary,"custom, fork of Mosaic","4.8 (August 22, 2002; 18 years ago (2002-08-22)) [±]"
+Netscape Navigator (v.1–4)[note 3] (discontinued),Netscape Communications,Free,Proprietary,"custom, fork of Mosaic",4.0.8 (discontinued in 1998)
+Netscape Navigator 9[note 3] (discontinued),Netscape Communications(division of AOL),Free,"Proprietary (browser),MPL 1.1/GPL 2.0/LGPL 2.1 (Gecko)",Gecko,"9.0.0.6 (February 20, 2008; 12 years ago (2008-02-20)) [±]"
+NetSurf,The NetSurf Developers,Free,GPL,custom,"3.10[48] (May 24, 2020; 3 months ago (2020-05-24)) [±]"
+OmniWeb (discontinued),The Omni Group,Free,"Proprietary (browser), LGPL (WebKit)",WebKit,"5.11.2 (July 23, 2012; 8 years ago (2012-07-23)) [±]"
+Opera,Opera Software,Free,Proprietary,Blink,70.0.3728.133 (25 August 2020; 3 days ago (2020-08-25)[49])
+Opera Mobile,Opera Software,Free,Proprietary,Blink,"Android59.1.2926.54067 / July 13, 2020; 46 days ago (2020-07-13)[50]Android (classic)12.1.9 / June 8, 2016; 4 years ago (2016-06-08)[51]Symbian S6012.0.22 / June 24, 2012; 8 years ago (2012-06-24)[52]Windows Mobile10.0 / March 16, 2010; 10 years ago (2010-03-16)[53]",Android,"59.1.2926.54067 / July 13, 2020; 46 days ago (2020-07-13)[50]",Android (classic),"12.1.9 / June 8, 2016; 4 years ago (2016-06-08)[51]",Symbian S60,"12.0.22 / June 24, 2012; 8 years ago (2012-06-24)[52]",Windows Mobile,"10.0 / March 16, 2010; 10 years ago (2010-03-16)[53]"
+Android,"59.1.2926.54067 / July 13, 2020; 46 days ago (2020-07-13)[50]"
+Android (classic),"12.1.9 / June 8, 2016; 4 years ago (2016-06-08)[51]"
+Symbian S60,"12.0.22 / June 24, 2012; 8 years ago (2012-06-24)[52]"
+Windows Mobile,"10.0 / March 16, 2010; 10 years ago (2010-03-16)[53]"
+Origyn Web Browser (discontinued),Sand-labs,Free,BSD,WebKit,1.25 (AROS only)[54]1.23r4 (AmigaOS 4 only)[55]1.24 (15 April 2014; 6 years ago (2014-04-15)[56]) [±]
+Pale Moon,Moonchild Productions,Free,MPL 2.0,Goanna,28.12.0 (4 August 2020; 24 days ago (2020-08-04)[57]) [±]
+Polarity,Stanley Lim,Free,"Proprietary (browser & Trident), BSD (Cef)","Blink, Trident","10.0.1 (April 26, 2020; 4 months ago (2020-04-26)[58]) [±]"
+rekonq (discontinued),Andrea Diamantini,Free,GPL 3.0,WebKit,2.4.2[59][60] (12 January 2014; 6 years ago (2014-01-12)) [±]
+Roccat Browser,Runecats,Free,"Proprietary (browser), LGPL (WebKit)",WebKit,"8.5 (March 15, 2019; 17 months ago (2019-03-15)[61]) [±]"
+Safari,Apple Inc.,Included with macOS and iOS,"Proprietary (browser), LGPL (WebKit)",WebKit,"macOS13.1.2 / July 15, 2020; 44 days ago (2020-07-15)[62]iOS13.1 / November 7, 2019; 9 months ago (2019-11-07)[63]",macOS,"13.1.2 / July 15, 2020; 44 days ago (2020-07-15)[62]",iOS,"13.1 / November 7, 2019; 9 months ago (2019-11-07)[63]"
+macOS,"13.1.2 / July 15, 2020; 44 days ago (2020-07-15)[62]"
+iOS,"13.1 / November 7, 2019; 9 months ago (2019-11-07)[63]"
+SalamWeb,Salam WebTechnologies DMCC,Free,Proprietary (browser),Blink,"Windows
+4.5 (July 31, 2020; 28 days ago (2020-07-31)[64])
+
+iOS
+4.5 (June 20, 2020; 2 months ago (2020-06-20)[65])
+
+Android
+4.5.0.40 (June 25, 2020; 2 months ago (2020-06-25)[66])
+
+macOS
+4.5 (June 20, 2020; 2 months ago (2020-06-20)[65]) [±]"
+SeaMonkey,SeaMonkey Council,Free,MPL 2.0,Gecko,"2.53.3 (July 7, 2020; 52 days ago (2020-07-07)[67]) [±]"
+Shiira (discontinued),Happy Macintosh Developing Team,Free,BSD,WebKit,"2.3 (August 11, 2009; 11 years ago (2009-08-11)) [±]"
+Sleipnir,Fenrir Inc.,Free,Proprietary,"Blink, Trident","Windows (Sleipnir 6)
+6.4.6.4000 (May 28, 2020; 3 months ago (2020-05-28)[68])
+
+Windows (Sleipnir 4)
+4.7.5.4000 (May 28, 2020; 3 months ago (2020-05-28)[69])
+
+macOS
+4.7.5 (June 10, 2020; 2 months ago (2020-06-10)[70])
+
+iOS
+4.6.4 (July 14, 2020; 45 days ago (2020-07-14)[71])
+
+Android
+3.5.21 (May 25, 2020; 3 months ago (2020-05-25)[72]) [±]"
+SRWare Iron,SRWare,Free,Proprietary,Blink,"Windows83.0.4250.0 / July 5, 2020; 54 days ago (2020-07-05)[73]macOS81.0.4200.0 / May 12, 2020; 3 months ago (2020-05-12)[74]Linux81.0.4200.0 / May 13, 2020; 3 months ago (2020-05-13)[75]Android74.0.3850.0 / May 10, 2019; 15 months ago (2019-05-10)[76]",Windows,"83.0.4250.0 / July 5, 2020; 54 days ago (2020-07-05)[73]",macOS,"81.0.4200.0 / May 12, 2020; 3 months ago (2020-05-12)[74]",Linux,"81.0.4200.0 / May 13, 2020; 3 months ago (2020-05-13)[75]",Android,"74.0.3850.0 / May 10, 2019; 15 months ago (2019-05-10)[76]"
+Windows,"83.0.4250.0 / July 5, 2020; 54 days ago (2020-07-05)[73]"
+macOS,"81.0.4200.0 / May 12, 2020; 3 months ago (2020-05-12)[74]"
+Linux,"81.0.4200.0 / May 13, 2020; 3 months ago (2020-05-13)[75]"
+Android,"74.0.3850.0 / May 10, 2019; 15 months ago (2019-05-10)[76]"
+surf,suckless.org,Free,MIT,WebKit,2.0 (28 March 2017; 3 years ago (2017-03-28)[77]) [±]
+Torch Browser,Torch Media,Free,Proprietary,Blink,"69.2.0.1706 (June 8, 2020; 2 months ago (2020-06-08)[78]) [±]"
+Uzbl (discontinued),Dieter Plaetinck,Free,GPL 3.0,WebKit,"0.9.1 (October 27, 2016; 3 years ago (2016-10-27)[79]) [±]"
+Vivaldi,Vivaldi Technologies,Free,Proprietary,Blink,"Linux, macOS, Windows
+3.2 (1967.45) (August 18, 2020; 10 days ago (2020-08-18)[80]) [±]
+
+Android
+3.2 (1996.19) (August 12, 2020; 16 days ago (2020-08-12)[81]) [±]"
+Waterfox,Alex Kontos,Free,MPL 2.0,Gecko,2020.07.1 (2 July 2020; 57 days ago (2020-07-02)[82]) [±]
+Web (formerly named Epiphany),Marco Pesenti Gritti,Free,GPL,WebKit,3.36.4[83] (8 July 2020; 51 days ago (2020-07-08)) [±]
+WorldWideWeb (Later renamed Nexus) (discontinued),Tim Berners-Lee,Free,Public domain,custom,"0.18 (January 14, 1994; 26 years ago (1994-01-14)) [±]"
+w3m,Akinori Ito,Free,MIT,custom,Original version0.5.3 / 15 January 2011; 9 years ago (2011-01-15)[84]Tatsuya Kinoshita versionv0.5.3+git20200502 / 1 May 2020; 3 months ago (2020-05-01)[85],Original version,0.5.3 / 15 January 2011; 9 years ago (2011-01-15)[84],Tatsuya Kinoshita version,v0.5.3+git20200502 / 1 May 2020; 3 months ago (2020-05-01)[85]
+Original version,0.5.3 / 15 January 2011; 9 years ago (2011-01-15)[84]
+Tatsuya Kinoshita version,v0.5.3+git20200502 / 1 May 2020; 3 months ago (2020-05-01)[85]
+Yandex Browser,Yandex,Free,Proprietary,Blink,"Windows, macOS
+20.7.2 (July 2020; 1 month ago (2020-07)[86])
+
+iOS
+20.6.2.318 (July 16, 2020; 43 days ago (2020-07-16)[87])
+
+Android
+20.6.3.54 (July 23, 2020; 36 days ago (2020-07-23)[88]) [±]"
+Browser,Creator,Cost (USD),Software license,Current layout engine,Latest release version
