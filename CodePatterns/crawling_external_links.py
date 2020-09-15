@@ -69,8 +69,9 @@ def followExternalOnly(startingSite):
 
 def getAllExternalLinks(siteUrl):
 	html = urlopen(siteUrl)
-	domain = '{}://{}'.format(urlparse(siteUrl).scheme,
-							  urlparse(siteUrl).netloc)
+	domain = '{}://{}'.format(
+		urlparse(siteUrl).scheme, urlparse(siteUrl).netloc
+	)
 	bs = BeautifulSoup(html, 'html.parser')
 	internalLinks = getInternalLinks(bs, domain)
 	externalLinks = getExternalLinks(bs, urlparse(siteUrl).netloc)

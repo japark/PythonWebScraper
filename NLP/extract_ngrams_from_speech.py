@@ -25,20 +25,22 @@ def cleanInput(content):
 
 # 출현빈도가 높지만 큰 의미를 갖지 않는 단어들을 포함한 N-grams 제외
 def isCommon(ngram):
-	commonWords = ['THE', 'BE', 'AND', 'OF', 'A', 'IN', 'TO', 'HAVE',
-					'IT', 'I', 'THAT', 'FOR', 'YOU', 'HE', 'WITH', 'ON',
-					'DO', 'SAY', 'THIS', 'THEY', 'IS', 'AN', 'AT', 'BUT',
-					'WE', 'HIS', 'FROM', 'THAT', 'NOT', 'BY', 'SHE', 'OR',
-					'AS', 'WHAT', 'GO', 'THEIR', 'CAN', 'WHO', 'GET', 'IF',
-					'WOULD', 'HER', 'ALL', 'MY', 'MAKE', 'ABOUT', 'KNOW',
-					'WILL', 'AS', 'UP', 'ONE', 'TIME', 'HAS', 'BEEN', 'THERE',
-					'YEAR', 'SO', 'THINK', 'WHEN', 'WHICH', 'THEM', 'SOME',
-					'ME', 'PEOPLE', 'TAKE', 'OUT', 'INTO', 'JUST', 'SEE',
-					'HIM', 'YOUR', 'COME', 'COULD', 'NOW', 'THAN', 'LIKE',
-					'OTHER', 'HOW', 'THEN', 'ITS', 'OUR', 'TWO', 'MORE',
-					'THESE', 'WANT', 'WAY', 'LOOK', 'FIRST', 'ALSO', 'NEW',
-					'BECAUSE', 'DAY', 'MORE', 'USE', 'NO', 'MAN', 'FIND',
-					'HERE', 'THING', 'GIVE', 'MANY', 'WELL']
+	commonWords = [
+		'THE', 'BE', 'AND', 'OF', 'A', 'IN', 'TO', 'HAVE',
+		'IT', 'I', 'THAT', 'FOR', 'YOU', 'HE', 'WITH', 'ON',
+		'DO', 'SAY', 'THIS', 'THEY', 'IS', 'AN', 'AT', 'BUT',
+		'WE', 'HIS', 'FROM', 'THAT', 'NOT', 'BY', 'SHE', 'OR',
+		'AS', 'WHAT', 'GO', 'THEIR', 'CAN', 'WHO', 'GET', 'IF',
+		'WOULD', 'HER', 'ALL', 'MY', 'MAKE', 'ABOUT', 'KNOW',
+		'WILL', 'AS', 'UP', 'ONE', 'TIME', 'HAS', 'BEEN', 'THERE',
+		'YEAR', 'SO', 'THINK', 'WHEN', 'WHICH', 'THEM', 'SOME',
+		'ME', 'PEOPLE', 'TAKE', 'OUT', 'INTO', 'JUST', 'SEE',
+		'HIM', 'YOUR', 'COME', 'COULD', 'NOW', 'THAN', 'LIKE',
+		'OTHER', 'HOW', 'THEN', 'ITS', 'OUR', 'TWO', 'MORE',
+		'THESE', 'WANT', 'WAY', 'LOOK', 'FIRST', 'ALSO', 'NEW',
+		'BECAUSE', 'DAY', 'MORE', 'USE', 'NO', 'MAN', 'FIND',
+		'HERE', 'THING', 'GIVE', 'MANY', 'WELL'
+	]
 	for word in ngram:
 		if word in commonWords:
 			return True

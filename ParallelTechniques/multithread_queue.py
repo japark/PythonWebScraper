@@ -24,10 +24,12 @@ from bs4 import BeautifulSoup
 '''
 
 def storage(queue):
-	conn = pymysql.connect(host='127.0.0.1',
-						   user='root',
-						   passwd='',
-						   db='mysql')
+	conn = pymysql.connect(
+		host='127.0.0.1',
+		user='root',
+		passwd='',
+		db='mysql'
+	)
 	cur = conn.cursor()
 	cur.execute('USE <database name>')
 	while 1:

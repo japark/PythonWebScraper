@@ -42,7 +42,7 @@ try:
    _thread.start_new_thread(scrape_article, ('Thread 1', '/wiki/Kevin_Bacon',))
    _thread.start_new_thread(scrape_article, ('Thread 2', '/wiki/Monty_Python',))
 except:
-   print ('Error: unable to start threads')
+   print('Error: unable to start threads')
 
 while 1:
 	pass

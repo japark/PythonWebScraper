@@ -22,7 +22,7 @@ def readPDF(pdfFile):
 # 웹 상의 PDF 문서 읽기
 url = 'http://pythonscraping.com/pages/warandpeace/chapter1.pdf'
 pdfFile = urlopen(url)
-# pdfFile = open('warandpeace.pdf', 'rb')  # 로컬 파일의 경우
+# pdfFile = open('./warandpeace.pdf', 'rb')  # 로컬 파일의 경우
 outputString = readPDF(pdfFile)
 print(outputString)
 pdfFile.close()
