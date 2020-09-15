@@ -11,7 +11,12 @@ import pymysql
    - passwd 속성에 로컬 서버 비밀번호 입력
 '''
 
-conn = pymysql.connect(host='127.0.0.1', user='root', passwd='', db='mysql')
+conn = pymysql.connect(
+	host='127.0.0.1',
+	user='root',
+	passwd='',
+	db='mysql'
+)
 cur = conn.cursor()
 cur.execute('USE <database name>')
 cur.execute('SELECT * FROM <table name> WHERE id = 1')

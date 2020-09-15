@@ -90,7 +90,7 @@ def getAllExternalLinks(siteUrl):
 startUrl = 'https://www.naver.com'
 
 '''
-1)followExternalOnly 와 2)getAllExternalLinks 를 한번에 하나씩만 실행할 것!
+1) followExternalOnly 와 2) getAllExternalLinks 를 한번에 하나씩만 실행할 것!
 '''
 
 ## 1) 외부링크만을 무작위로 따라가며 링크주소 출력
