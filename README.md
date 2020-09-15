@@ -1,9 +1,9 @@
 # PythonWebScraper
 Guide for Python Web Scraping  
 ㄴ These are my practice codes while studying a book "Web Scraping with Python <2nd ed.>" written by Ryan Mitchell,  
-  published by O'REILLY Media.  
+ㄴ published by O'REILLY Media.  
 ㄴ So, most codes are from https://github.com/REMitchell/python-scraping,  
-  but I fixed errors, removed the useless, modified, and put comments.  
+ㄴ but I fixed errors, removed the useless, modified many parts, and put comments.  
   
 After git clone, follow these:
 
