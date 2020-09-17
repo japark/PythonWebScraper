@@ -23,7 +23,7 @@ from bs4 import BeautifulSoup
 def getLinks(articleUrl):
 	html = urlopen('http://en.wikipedia.org{}'.format(articleUrl))
 	bs = BeautifulSoup(html, 'html.parser')
-	return bs.find('div', {'id':'bodyContent'}).findAll('a', 
+	return bs.find('div', {'id':'bodyContent'}).find_all('a', 
 		href=re.compile('^(/wiki/)((?!:).)*$'))
 
 
@@ -37,7 +37,7 @@ def getHistoryIPs(pageUrl):
 	html = urlopen(historyUrl)
 	bs = BeautifulSoup(html, 'html.parser')
 	# 로그인 안한 편집자의 경우 a.mw-anonuserlink 태그에 IP 주소가 컨텐츠로 담겨있다.
-	ipAddresses = bs.findAll('a', {'class':'mw-anonuserlink'})
+	ipAddresses = bs.find_all('a', {'class':'mw-anonuserlink'})
 	addressList = set()
 	for ipAddress in ipAddresses:
 		addressList.add(ipAddress.get_text())

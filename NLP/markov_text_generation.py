@@ -2,10 +2,7 @@ from random import randint
 from urllib.request import urlopen
 
 '''
-*** NOTE ***
-
-1) 마르코프 모델을 이용한 텍스트 생성
-
+Text Generation by Markov Model
 '''
 
 def wordListSum(wordList):
